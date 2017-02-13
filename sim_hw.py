@@ -1,6 +1,6 @@
 """
 A simple link simulator that emulates the transmission of packets from a
-sender A to a receiver B.
+sender A or a sender B to a receiver/sender C to a receiver D.
 
 """
 from collections import deque
