@@ -1,2 +1,3 @@
-# NetworkSimulatorHW1
-Network simulator HW1 for CS:3640 Networks
+# NetworkSimulator
+
+Simulation of a physical network.
